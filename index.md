@@ -1,11 +1,14 @@
-# Welcome to my first blog
+# Welcome to my first blog about Github Learnings
 
-This blog is about my learning about Github pages
+This blog is about my learning about Github introduction and Github Pages
 So far I have learned Creating and closing issues
-Editing file 
+Creating and editing file 
 Creating a branch and how to commit changes
-Creating and closing pull request
-Enable Github Pages
-And now I am learning about making changes and applying theme on Github Pages
+Creating and Merging pull request
 
-Looking forward on gaining knowledge with the session !
+Today, I am learning about enabling Github Pages
+How to create a new blogging site, making changes and apply theme. 
+Learning about correct formating for file name and titles. 
+How to add and modify front matters
+
+Looking forward on gaining more knowledge with the upcoming session !
