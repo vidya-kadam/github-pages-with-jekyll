@@ -1,4 +1,4 @@
 ---
-title: "Learning-Github-Pages"
+title: "Learning Github Pages"
 date: 2020-05-08
 ---
